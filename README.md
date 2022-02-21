@@ -28,6 +28,7 @@ const MySearchComponent = () => (
 ## Install
 
 ```
+pip install -r requirements.txt
 npm i react-elasticsearch
 yarn add react-elasticsearch
 ```
